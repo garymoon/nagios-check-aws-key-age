@@ -29,4 +29,4 @@ Configuration
     }
 
 Notes:
-* It intentionally exclused all inactive keys.
+* It intentionally excludes all inactive keys.
